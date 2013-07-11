@@ -1,4 +1,4 @@
-<!--Пример острова для ссылок типа shop.the-alba.com/brand/alba/zhenskaja-kollekcija-->
+<!--Пример острова для ссылок типа shop.the-alba.com/brand/alba/zhenskaja-kollekcija с цветовым фильтром-->
 
 <site xmlns="http://interactive-answers.webmaster.yandex.ru/schemas/site/0.0.1"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
