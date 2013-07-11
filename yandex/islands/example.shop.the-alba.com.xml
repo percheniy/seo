@@ -3,8 +3,8 @@
 <site xmlns="http://interactive-answers.webmaster.yandex.ru/schemas/site/0.0.1"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://interactive-answers.webmaster.yandex.ru/schemas/site/0.0.1 http://interactive-answers.webmaster.yandex.ru/schemas/site-0.0.1.xsd">
-    <title>Официальный интернет-магазин ALBA. Продажа обуви и аксессуаров ALBA, SVETSKi и DUMOND с доставкой по всей России.</title>
-    <description>ALBA, SVETSKi и DUMOND - продажа мужской и женской обуви. Официальный интернет магазин Alba – обувь и аксессуары от ведущих мировых брендов с доставкой по всей России.</description>
+    <title>Официальный интернет-магазин ALBA</title>
+    <description>ALBA</description>
     <rootUrl>http://shop.the-alba.com/</rootUrl>
           <resource>
   
